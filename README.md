@@ -1,0 +1,2 @@
+# mageos-magento-zf-db
+This is a Mage-OS fork of the Zend_Db Project found at https://github.com/magento/magento-zf-db.
